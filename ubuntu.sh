@@ -1,1 +1,1 @@
-wget https://wordpress.org/latest.tar.gz
+installed wordpress
